@@ -1,0 +1,57 @@
+
+
+body {
+
+	
+ background-color: #000000;
+ color: #FFFFFF;
+}
+h1 {
+ color: #83F759;
+ text-align: center;
+ font-size: 100px;
+ .VT232 { font-family: VT232; } 
+
+}
+p {
+ background-color: #black;
+ color: #white;
+ text-align: center;
+ border: 0px groove #FFFF33;
+}
+
+.button {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  .VT232 { font-family: VT232;
+   }
+
+  display: inline-block;
+  font-size: 16px;
+  margin: 25px 560px;
+  cursor: pointer;
+}
+
+.button {background-color: #83F759;} /* Green */
+
+ .button2 {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+   .VT232 { font-family: VT232;
+   }
+
+  display: inline-block;
+  font-size: 16px;
+  margin: 25px 740px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #83F759;} /* Green */
+
+
+
+***
